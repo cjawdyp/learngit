@@ -1,1 +1,8 @@
-wdypcjaCreating a new branch is quick & simple.
+<<<<<<< HEAD
+wdypcja
+Creating a new branch is quick and simple.
+=======
+wdypcja
+Creating a new branch is quick and simple.
+
+>>>>>>> feature1
